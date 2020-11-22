@@ -4,7 +4,7 @@ Summary of public GitHub projects and past experiences. My resume can be found [
 ### Experience
 For previous experience check out [this](https://github.com/mxk5025/experiences).
 
-### Projects
+### Projects on GitHub
 * [mxk5025.github.io](https://github.com/mxk5025/mxk5025.github.io) - My personal [website](https://michael-kha.com/).
 * [swatches](https://github.com/mxk5025/swatches) - Integration of color-related libraries to make color palettes. Found [here](https://michael-kha.com/swatches).
 * [wiki-scraper](https://github.com/mxk5025/wiki-scraper) - Example of scraping for data on a Wikipedia page. Built for another project to generate music datasets.
@@ -16,4 +16,13 @@ For previous experience check out [this](https://github.com/mxk5025/experiences)
 * [Library Book Management System (LBMS)](https://github.com/mxk5025/LBMS) - Architecting a system using design patterns to meet specified requirements.
 * [matrix-tree-theorem](https://github.com/mxk5025/matrix-tree-theorem) - Calculate the minimum number of spanning trees from a graph using the matrix tree theorem.
 
+### Other Projects
+* [addletic.com -- Capstone Project](https://staging.addletic.com/) - A sports league management application hosted on AWS. Built with React + TypeScript on a Django + PostgreSQL backend.
 
+### Skills
+* **Technologies**: Python, Java, C/C++, JavaScript, React, SQL, NoSQL, Hadoop, Kafka, Spark, AWS, GCP, Azure
+* **Design**: System Design, Distributed Systems/Microservices, Data Modeling, Security, Cloud Architecture
+* **DevOps**: Docker, Kubernetes, CloudFormation, Terraform, Ansible, Vagrant, CI/CD, DNS
+
+### Contact
+Contact information can be found on my [website](https://michael-kha.com/).
