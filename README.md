@@ -15,7 +15,7 @@ Summary of public GitHub projects and past experiences.
 * [matrix-tree-theorem](https://github.com/mchaelkha/matrix-tree-theorem) - Calculate the minimum number of spanning trees from a graph using the matrix tree theorem.
 
 ### Other Projects
-* [addletic.com -- Capstone Project](https://staging.addletic.com/) - A sports league management application hosted on AWS. Built with React + TypeScript on a Django + PostgreSQL backend.
+* addletic.com - Capstone Project - A sports league management application hosted on AWS. Built with React + TypeScript on a Django + PostgreSQL backend. Ultimately did not have a flushed out product plan to ship on time and on budget.
 
 ### Skills
 * **Technologies**: Python, Java, .NET/C#, C/C++, TypeScript, JavaScript, React, SQL, NoSQL, Hadoop, Kafka, Spark, AWS, GCP, Azure
